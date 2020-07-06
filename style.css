@@ -22,3 +22,29 @@
 .container{
   margin-bottom: 3%;
 }
+
+.orange{
+  background-color: orange;
+  padding: 10px 30px;
+  border-radius: 10px;
+}
+
+.pink{
+  background-color: #FF136f;
+  padding: 10px 30px;
+  border-radius: 10px;
+}
+
+.blue{
+  background-color: blue;
+  padding: 10px 30px;
+  border-radius: 10px;
+}
+
+.catagories h1{
+  color: white;
+}
+
+.catagories img{
+  width: 100px;
+}
